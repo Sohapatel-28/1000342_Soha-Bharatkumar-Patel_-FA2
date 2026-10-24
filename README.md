@@ -309,3 +309,6 @@ Developed as part of the Mathematics for AI-II Formative Assessment 2 project.
 
 **Project name:** LogiSight 360  
 **Project focus:** Last-mile delivery data analysis and performance insights
+
+## STREAMLIT LINK 
+https://1000342soha-bharatkumar-patel-fa2-hrmy8wswxqh3huuu9368w5.streamlit.app/
